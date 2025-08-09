@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard Analysis
-This project focuses on analyzing the Superstore dataset to uncover key trends in sales, and profitability. The analysis provides a clear view of business performance over multiple years. The goal was to transform raw data into actionable insights that support strategic decision-making.
+
 # Overview
 This project analyzes sales and profitability trends of a global retail superstore to uncover key business insights and drive data informed decisions. The dataset contains transactional records, including order details, product categories, customer segments, regions, sales revenue, discounts, and profit margins. Using Excel, the data was cleaned, transformed, and visualized into an interactive dashboard that provides a holistic view of business performance. The analysis identifies high-performing regions and products, evaluates discount strategies, and highlights areas of revenue loss. This project demonstrates strong skills in data cleaning, business KPI tracking, and dashboard design, enabling stakeholders to make informed decisions on sales strategy, inventory management, and profitability optimization.
 # Objectives
@@ -8,6 +8,9 @@ The primary objective of this dataset is to analyze sales patterns, identify hig
 *Improving regional and segment-based marketing strategies.
 *Reducing losses by addressing underperforming products.
 *Enhancing operational efficiency in shipping and discounting.
+# Tools Used
+* Data Visualization
+* Excel
 # Methodologies
 * Data cleaning
 * Exploratory data analysis (EDA)
